@@ -1,5 +1,5 @@
 //your JS code here. If required.
 const c = document.getElementById("btn");
 c.addEventListener("click",() => {
-	console.log(DOM load success);
+	document.write("DOM load success");
 });
